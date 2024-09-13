@@ -1,4 +1,4 @@
 # Conestoga College - Mobile Solutions Development
 ## Mobile Application Development - Android
 
-<img src="screenshot.gif" width="650"/>
+<img src="screenshot.png" width="650"/>
