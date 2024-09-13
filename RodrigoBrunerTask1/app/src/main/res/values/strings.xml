@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RodrigoBrunerTask1</string>
+    <string name="title_text">My First Android App</string>
+    <string name="button_text">Explore Android.</string>
+</resources>

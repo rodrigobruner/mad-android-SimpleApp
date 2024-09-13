@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#003C43</color>
+    <color name="primaryDark">#697565</color>
+
+    <color name="secundary">#135D66</color>
+    <color name="secundaryDark">#ECDFCC</color>
+
+    <color name="buttonTextColor">#77B0AA</color>
+    <color name="buttonTextColorDark">#ECDFCC</color>
+
+    <color name="background">#E3FEF7</color>
+    <color name="backgroundDark">#181C14</color>
+</resources>
